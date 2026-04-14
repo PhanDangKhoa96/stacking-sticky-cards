@@ -7,8 +7,8 @@ import {Header} from "@/components/global/Header";
 import {geist} from "@/lib/fonts";
 
 export const metadata: Metadata = {
-    title: "Khoa Phan Playground",
-    description: "Khoa Phan's Playground",
+    title: "KP Playground - Stacking Sticky Cards",
+    description: "A personal experiment by Khoa Phan exploring stacking sticky card scroll effects using GSAP and Lenis, built with Next.js and Tailwind CSS.",
 };
 
 export default function RootLayout({

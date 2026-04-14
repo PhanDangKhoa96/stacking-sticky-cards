@@ -15,7 +15,7 @@ const Header = () => {
 
             <nav className="flex items-center gap-5">
                 <Link
-                    href="https://github.com/PhanDangKhoa96"
+                    href="https://github.com/PhanDangKhoa96/stacking-sticky-cards"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub"

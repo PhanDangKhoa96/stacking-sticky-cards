@@ -1,8 +1,8 @@
-# Animation Boilerplate
+# KP Playground - Stacking Sticky Cards
 
-Description go here
+A personal experiment by Khoa Phan exploring stacking sticky card scroll effects using GSAP and Lenis, built with Next.js and Tailwind CSS.
 
-![Add your image here](IMAGE_LINK_GO_HERE)
+![Add your image here](https://stacking-sticky-cards.vercel.app)
 
 ## Built with
 
