@@ -15,7 +15,7 @@ const cards = [
             {value: "40%", label: "Faster Customer Onboarding"},
             {value: "18+", label: "Hours Saved Weekly"},
         ],
-        image: "/images/image-108.png",
+        image: "/images/photo-05.png",
     },
     {
         year: "2025",
@@ -29,7 +29,7 @@ const cards = [
             {value: "62%", label: "Checkout Completion Rate"},
             {value: "30+", label: "Markets Reached"},
         ],
-        image: "/images/image-109.png",
+        image: "/images/photo-06.png",
     },
     {
         year: "2025",
@@ -43,7 +43,7 @@ const cards = [
             {value: "3×", label: "Increase in Inbound Leads"},
             {value: "12wk", label: "From Concept to Launch"},
         ],
-        image: "/images/image-117.png",
+        image: "/images/photo-07.png",
     },
 ];
 

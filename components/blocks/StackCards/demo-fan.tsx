@@ -3,11 +3,11 @@ import {StackingCardFan} from "./card-fan";
 import {StackingCardsWrapper} from "./wrapper";
 
 const cards = [
-    {src: "/images/image-108.png", alt: "Image 108"},
-    {src: "/images/image-109.png", alt: "Image 109"},
-    {src: "/images/image-117.png", alt: "Image 117"},
-    {src: "/images/image-132.png", alt: "Image 132"},
-    {src: "/images/image-158.png", alt: "Image 158"},
+    {src: "/images/photo-05.png", alt: "Photo 05"},
+    {src: "/images/photo-06.png", alt: "Photo 06"},
+    {src: "/images/photo-07.png", alt: "Photo 07"},
+    {src: "/images/photo-08.png", alt: "Photo 08"},
+    {src: "/images/photo-09.png", alt: "Photo 09"},
 ];
 
 const FanDemo = () => (

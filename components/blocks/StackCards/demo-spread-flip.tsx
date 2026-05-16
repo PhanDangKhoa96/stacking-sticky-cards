@@ -7,19 +7,19 @@ const cards = [
         title: "Flow",
         description:
             "Engineered for flow. Designed to move with you, not against you.",
-        illustration: "/illustrations/abstract-art-1.png",
+        illustration: "/illustrations/illustration-01.png",
     },
     {
         title: "Silence",
         description:
             "Silence in motion. The kind of precision you feel before you hear.",
-        illustration: "/illustrations/abstract-art-2.png",
+        illustration: "/illustrations/illustration-02.png",
     },
     {
         title: "Form",
         description:
             "Form follows force. Every line drawn by the same invisible hand.",
-        illustration: "/illustrations/abstract-shapes.png",
+        illustration: "/illustrations/illustration-03.png",
     },
 ];
 
@@ -36,7 +36,7 @@ interface CardFrontProps {
 const CardFront = ({index}: CardFrontProps) => (
     <div className="absolute inset-0 overflow-hidden backface-hidden">
         <Image
-            src="/images/image-60.png"
+            src="/images/photo-04.png"
             alt=""
             width={1920}
             height={1076}

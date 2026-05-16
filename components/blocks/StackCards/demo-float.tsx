@@ -6,7 +6,7 @@ const cards = [
     {
         title: "Flow",
         tagline: "Natural. Effortless. Yours.",
-        image: "/images/image-1.png",
+        image: "/images/photo-01.png",
         heading: "A Design Built for Effortless Flow",
         body: "Every surface is shaped to disappear beneath your hands. No resistance, no friction — just pure, uninterrupted motion from the first touch.",
         detail: "Studio Series · Limited Edition · Handcrafted in Japan",
@@ -15,7 +15,7 @@ const cards = [
     {
         title: "Silence",
         tagline: "Quiet precision. Infinite clarity.",
-        image: "/images/image-4.png",
+        image: "/images/photo-02.png",
         heading: "Silence is the Sound of Precision",
         body: "Engineered to eliminate noise at its source. What remains is clarity — the kind you feel in every keystroke, and hear in none.",
         detail: "Studio Series · Limited Edition · Handcrafted in Japan",
@@ -24,7 +24,7 @@ const cards = [
     {
         title: "Form",
         tagline: "Structure born from force.",
-        image: "/images/image-24.png",
+        image: "/images/photo-03.png",
         heading: "Form That Follows Every Force",
         body: "Drawn from invisible forces and refined through thousands of iterations. Structure that speaks before you even touch it.",
         detail: "Studio Series · Limited Edition · Handcrafted in Japan",
