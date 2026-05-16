@@ -1,14 +1,15 @@
 import type {Metadata} from "next";
 import "./globals.css";
 import {LenisProvider} from "@/providers/LenisProvider";
-import {GsapProvider} from "@/providers/GsapProvider";
 import {cn} from "@/lib/utilities/cn";
 import {Header} from "@/components/global/Header";
-import {geist} from "@/lib/fonts";
+import {DemoNav} from "@/components/global/DemoNav";
+import {syne, dmSans} from "@/lib/fonts";
 
 export const metadata: Metadata = {
     title: "KP Playground - Stacking Sticky Cards",
-    description: "A personal experiment by Khoa Phan exploring stacking sticky card scroll effects using GSAP and Lenis, built with Next.js and Tailwind CSS.",
+    description:
+        "A personal experiment by Khoa Phan exploring stacking sticky card scroll effects using GSAP and Lenis, built with Next.js and Tailwind CSS.",
 };
 
 export default function RootLayout({
@@ -18,10 +19,10 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
-            <body className={cn("antialiased", geist.variable, "font-geist")}>
+            <body className={cn("antialiased bg-[#121212]", syne.variable, dmSans.variable, "font-dm-sans")}>
                 <Header />
+                <DemoNav />
                 <LenisProvider>{children}</LenisProvider>
-                <GsapProvider scrollTrigger />
             </body>
         </html>
     );

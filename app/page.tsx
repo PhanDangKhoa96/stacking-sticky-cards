@@ -1,3 +1,9 @@
+import StackedCards from "@/components/blocks/StackCards";
+
 export default function Home() {
-    return <div>Hello world!</div>;
+    return (
+        <div className="py-[20vh]">
+            <StackedCards />
+        </div>
+    );
 }

@@ -1,8 +1,15 @@
-import {Geist} from "next/font/google";
+import {Syne, DM_Sans} from "next/font/google";
 
-const geist = Geist({
+const syne = Syne({
     subsets: ["latin"],
-    variable: "--font-geist",
+    variable: "--font-syne",
+    weight: ["400", "500", "600", "700", "800"],
 });
 
-export {geist};
+const dmSans = DM_Sans({
+    subsets: ["latin"],
+    variable: "--font-dm-sans",
+    weight: ["300", "400", "500"],
+});
+
+export {syne, dmSans};
