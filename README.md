@@ -1,12 +1,12 @@
 # KP Playground - Stacking Sticky Cards
 
-A personal experiment by Khoa Phan exploring stacking sticky card scroll effects using GSAP and Lenis, built with Next.js and Tailwind CSS.
+A personal experiment by Khoa Phan exploring stacking sticky card scroll effects using Motion.dev and Lenis, built with Next.js and Tailwind CSS.
 
-![Add your image here](https://stacking-sticky-cards.vercel.app)
+![Add your image here](https://ik.imagekit.io/khoaphan/playground/thumbnails/stacking-sticky-cards.png)
 
 ## Built with
 
-Next JS 16, Tailwind CSS, GSAP
+Next JS 16, Tailwind CSS, Motion.dev
 
 ## Installation
 
